@@ -9,25 +9,21 @@
 
 ## Experience
 
-### TECHNOLOGY STUDENT ASSOSIATION, CHAPTER EXECUTIVE BOARD
+### Technology Student Assosiation, Chapter Executive Board
 As Reporter, I handled communication between our school and the state board, and helped get
 information about the club posted onto local websites. This position was also a leadership role, in
 which I organized and managed a team of 30 students.
 2015-2018
 
-### TECHNOLOGY STUDENT ASSOSIATION, STATE EXECUTIVE BOARD
-While only serving in this position for a month, while running for this position I gained experience
-in campaigning and outreach with TSA delegations from across the state, and currently handle all
-NJ TSA press communications, such as press releases, and authoring articles to be posted in local
-newspapers.
+### Technology Student Assosiation, State Executive Board
+While serving on this position I have handled the organization of an Organization with over 25,000 members, and I have handled all communication and outreach with the membership.
 2018-2019
 
-### STUDENT VICE PRESIDENT, HOWELL HIGH SHCOOL
+### Student Class Vice President, Howell High School
 I currently co-lead a class of over 600 students, organize class events, and merchandising.
 2018-2019
 
 ### Education
-
 
 2017-2021
 International Baccalaureate Student, Howell High School
