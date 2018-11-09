@@ -1,7 +1,7 @@
 # A Little About Me
 
 <p align="center">
-  ![Me](DSC_0681-300x200.jpg)">
+  DSC_0681-300x200.jpg
 </p>
 
 - 16 Years Old
