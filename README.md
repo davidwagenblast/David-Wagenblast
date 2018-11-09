@@ -1,5 +1,6 @@
 # A little about me
 
+![Me](https://imgur.com/a/d5gHL8V)
 - 16 Years Old
 - High School Sophomore
 - Technology Hobbyist
