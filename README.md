@@ -1,4 +1,4 @@
-## A little about me
+# A little about me
 
 - 16 Years Old
 - High School Sophomore
