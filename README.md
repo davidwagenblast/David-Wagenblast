@@ -1,6 +1,6 @@
 # A little about me
 
-![Me](https://imgur.com/a/d5gHL8V)
+![Me](DavidWagenblast/DSC_0681-300x200.jpg)
 - 16 Years Old
 - High School Sophomore
 - Technology Hobbyist
