@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Here's some stuff about me
 
 You can use the [editor on GitHub](https://github.com/davidwagenblast/aboutme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
