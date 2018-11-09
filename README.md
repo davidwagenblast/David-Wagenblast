@@ -1,7 +1,7 @@
 # A Little About Me
 
 <p align="center">
-  <img src="https://imgur.com/a/d5gHL8V">
+  ![GitHub Logo](DSC_0681-300x200.jpg)">
 </p>
 
 - 16 Years Old
