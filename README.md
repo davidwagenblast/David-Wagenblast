@@ -1,6 +1,7 @@
-# A little about me
+# A Little About Me
 
-                                                     ![Me](DSC_0681-300x200.jpg)
+<center> ![Me](DSC_0681-300x200.jpg) </center>
+
 - 16 Years Old
 - High School Sophomore
 - Technology Hobbyist
