@@ -1,37 +1,48 @@
-## Here's some stuff about me
+## A little about me
 
-You can use the [editor on GitHub](https://github.com/davidwagenblast/aboutme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 16 Years Old
+- High School Sophomore
+- Technology Hobbyist
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Portfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## EXPERIENCE
+2015-2018
+TECHNOLOGY STUDENT ASSOSIATION, CHAPTER EXECUTIVE BOARD
+As Reporter, I handled communication between our school and the state board, and helped get
+information about the club posted onto local websites. This position was also a leadership role, in
+which I organized and managed a team of 30 students.
+2018-2019
+TECHNOLOGY STUDENT ASSOSIATION, STATE EXECUTIVE BOARD
+While only serving in this position for a month, while running for this position I gained experience
+in campaigning and outreach with TSA delegations from across the state, and currently handle all
+NJ TSA press communications, such as press releases, and authoring articles to be posted in local
+newspapers.
+2018-2019
+STUDENT VICE PRESIDENT, HOWELL HIGH SHCOOL
+I currently co-lead a class of over 600 students, organize class events, and merchandising.
 
-```markdown
-Syntax highlighted code block
+## EDUCATION
+2017-2021
+INTERNATIONAL BACCALAUREATE STUDENT, HOWELL HIGH SCHOOL
+4.25 GPA, 2 Honorary Medals from FRHSD for participation and successes in the TSA Program
+(Technology Student Association)
 
-# Header 1
-## Header 2
-### Header 3
+2014-2017
+HONORS GRADUATE, HOWELL MIDDLE SCHOOL SOUTH
+3.75 GPA Unweighted Honors Graduate
 
-- Bulleted
-- List
+## SKILLS
+- Very good at online media outreach
+- Spanish at a mid-conversational level
+- Leader
+- Adaptable
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidwagenblast/aboutme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## ACTIVITIES
+- Boy Scouts of America - Patrol Leader, Den Leader, OA (Boy Scouts premier honorary program)
+- Police Athletic League – Interim Project Coordinator, Volunteer
+- Technology Student Association – State Executive Board, Gold Achievement award recipient, 1st Place Website Design 2017.
+- Junior State of America - Member
+-  Howell Democrats Club - Member
+- Student Council/Class Council – Vice President
