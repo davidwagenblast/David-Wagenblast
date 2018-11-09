@@ -7,7 +7,7 @@
 
 ## Portfolio
 
-### EXPERIENCE
+### Experience
 2015-2018
 # TECHNOLOGY STUDENT ASSOSIATION, CHAPTER EXECUTIVE BOARD
 As Reporter, I handled communication between our school and the state board, and helped get
@@ -23,7 +23,7 @@ newspapers.
 # STUDENT VICE PRESIDENT, HOWELL HIGH SHCOOL
 I currently co-lead a class of over 600 students, organize class events, and merchandising.
 
-### EDUCATION
+### Education
 
 
 017-2021
@@ -35,16 +35,15 @@ INTERNATIONAL BACCALAUREATE STUDENT, HOWELL HIGH SCHOOL
 HONORS GRADUATE, HOWELL MIDDLE SCHOOL SOUTH
 3.75 GPA Unweighted Honors Graduate
 
-### SKILLS
+### Skills
 - Very good at online media outreach
 - Spanish at a mid-conversational level
 - Leader
 - Adaptable
 
-### ACTIVITIES
+### Activities
 - Boy Scouts of America - Patrol Leader, Den Leader, OA (Boy Scouts premier honorary program)
 - Police Athletic League – Interim Project Coordinator, Volunteer
 - Technology Student Association – State Executive Board, Gold Achievement award recipient, 1st Place Website Design 2017.
 - Junior State of America - Member
--  Howell Democrats Club - Member
 - Student Council/Class Council – Vice President
