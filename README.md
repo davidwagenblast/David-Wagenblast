@@ -26,7 +26,7 @@ newspapers.
 I currently co-lead a class of over 600 students, organize class events, and merchandising.
 2018-2019
 
-## Education
+### Education
 
 
 2017-2021
