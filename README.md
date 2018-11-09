@@ -1,6 +1,6 @@
 # A Little About Me
 
-p align="center">
+<p> align="center">
   <img src="https://imgur.com/a/d5gHL8V">
 </p>
 
