@@ -1,8 +1,7 @@
 # A Little About Me
 
-<p align="center">
-  DSC_0681-300x200.jpg
-</p>
+ ! [me] DSC_0681-300x200.jpg
+
 
 - 16 Years Old
 - High School Sophomore
