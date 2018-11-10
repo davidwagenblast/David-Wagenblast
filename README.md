@@ -5,6 +5,7 @@
 - 16 Years Old
 - High School Sophomore
 - Technology Hobbyist
+- Political Activist
 
 
 # Portfolio
