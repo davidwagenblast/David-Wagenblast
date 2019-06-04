@@ -43,7 +43,7 @@ Helped to organize events and community service projects, while learning leaders
 [Fill in info when done]
 
 
-### Education
+# Education
 
 2017-2021
 Howell High School, AP Student
@@ -53,25 +53,25 @@ Howell High School, AP Student
 Honors Graduate, Howell Middle School South
 3.75 GPA Unweighted Honors Graduate
 
-### Skills
+# Skills
 - Very good at online media outreach
 - Spanish at a mid-conversational level
 - Leader
 - Adaptable
 
-### Activities
+# Activities
 - Boy Scouts of America - Senior Assistant Patrol Leader, Den Leader, OA (Boy Scouts premier honorary program)
 - Police Athletic League – Co-President, Volunteer
 - Technology Student Association – Chapter President, Gold Achievement award recipient, 1st Place Website Design 2017 and 2019.
 - Junior State of America - Member
 - Student Council – Vice President
 
-### Programs and Competitions
+# Programs and Competitions
 
 - TSA Leadership Conference 2016, 2017, 2018, 2019 - Learned leadership best practices. 
 - NJASC Leadership Conference 2019 - Learned how to best lead my student council.
 - National TSA Conference 2018 - Attended LEAP Leadership program and recieved Gold Award for my accomplishments in my Community, Academics, and TSA.
 - National TSA Conference 2019 - Competed in the National Webmaster Competition, and placed [fill in after competition]
 
-### Community Service
+# Community Service
 
