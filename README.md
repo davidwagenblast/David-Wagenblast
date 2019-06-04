@@ -10,9 +10,7 @@
 
 # Portfolio
 
-## Experience
-
-# TSA
+## TSA
 
 ### Technology Student Assosiation, Chapter Executive Board (2015-2018)
 As Reporter, I handled communication between our school and the state board, and helped get
