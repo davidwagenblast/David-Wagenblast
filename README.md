@@ -23,7 +23,7 @@ While serving on this position I have helped to handle an Organization with over
 ### Technology Student Assosiation, Chapter Executive Board President (2019-2020)
 After gaining valuable experience on the State Board, I chose to run for chapter president so I could best help my TSA Chapter suceed.
 
-# Class/Student Council
+## Class/Student Council
 
 ### Class Vice President, Howell High School (2018-2019)
 I  co-lead a class of over 600 students, organized class wide events, and presided over executive functions when the President was absent.
@@ -31,7 +31,7 @@ I  co-lead a class of over 600 students, organized class wide events, and presid
 ### Student Vice President, Howell High School (2019-2020)
 I currently co-lead a school of over 2000 students, organize school wide events, and preside over executive functions when the President is absent.
 
-# Police Athletic League
+## Police Athletic League
 
 ### Police Athletic League Interim Project Coordinator (2018-2019)
 Helped to organize events and community service projects, while learning leadership skills from others on the board.
@@ -63,6 +63,11 @@ Honors Graduate, Howell Middle School South
 - Technology Student Association – Chapter President, Gold Achievement award recipient, 1st Place Website Design 2017 and 2019.
 - Junior State of America - Member
 - Student Council – Vice President
+
+# Athletics
+
+- Varsity Swimmer
+- Junior Varsity Track Sprinter
 
 # Programs and Competitions
 
