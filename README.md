@@ -2,8 +2,8 @@
 
  ![me](DSC_0681-300x200.jpg)
 
-- 16 Years Old
-- High School Sophomore
+- 17 Years Old
+- High School Junior
 - Technology Hobbyist
 - Political Activist
 
@@ -12,26 +12,42 @@
 
 ## Experience
 
-### Technology Student Assosiation, Chapter Executive Board
+# TSA
+
+### Technology Student Assosiation, Chapter Executive Board (2015-2018)
 As Reporter, I handled communication between our school and the state board, and helped get
 information about the club posted onto local websites. This position was also a leadership role, in
 which I organized and managed a team of 30 students.
-2015-2018
 
-### Technology Student Assosiation, State Executive Board
-While serving on this position I have handled the organization of an Organization with over 25,000 members, and I have handled all communication and outreach with the membership.
-2018-2019
+### Technology Student Assosiation, State Executive Board (2018-2019)
+While serving on this position I have helped to handle an Organization with over 15,000 members, and I have handled all communication and outreach with the membership.
 
-### Student Class Vice President, Howell High School
-I currently co-lead a class of over 600 students, organize class events, and merchandising.
-2018-2019
+### Technology Student Assosiation, Chapter Executive Board President (2019-2020)
+After gaining valuable experience on the State Board, I chose to run for chapter president so I could best help my TSA Chapter suceed.
+
+# Class/Student Council
+
+### Class Vice President, Howell High School (2018-2019)
+I  co-lead a class of over 600 students, organized class wide events, and presided over executive functions when the President was absent.
+
+### Student Vice President, Howell High School (2019-2020)
+I currently co-lead a school of over 2000 students, organize school wide events, and preside over executive functions when the President is absent.
+
+# Police Athletic League
+
+### Police Athletic League Interim Project Coordinator (2018-2019)
+Helped to organize events and community service projects, while learning leadership skills from others on the board.
+
+
+### Police Athletic League Co-President (2019-2020)
+[Fill in info when done]
+
 
 ### Education
 
 2017-2021
-International Baccalaureate Student, Howell High School
-4.25 GPA, 2 Honorary Medals from FRHSD for participation and successes in the TSA Program
-(Technology Student Association)
+Howell High School, AP Student
+[Final GPA, Class Rank]
 
 2014-2017
 Honors Graduate, Howell Middle School South
@@ -44,8 +60,18 @@ Honors Graduate, Howell Middle School South
 - Adaptable
 
 ### Activities
-- Boy Scouts of America - Patrol Leader, Den Leader, OA (Boy Scouts premier honorary program)
-- Police Athletic League – Interim Project Coordinator, Volunteer
-- Technology Student Association – State Executive Board, Gold Achievement award recipient, 1st Place Website Design 2017.
+- Boy Scouts of America - Senior Assistant Patrol Leader, Den Leader, OA (Boy Scouts premier honorary program)
+- Police Athletic League – Co-President, Volunteer
+- Technology Student Association – Chapter President, Gold Achievement award recipient, 1st Place Website Design 2017 and 2019.
 - Junior State of America - Member
-- Student Council/Class Council – Vice President
+- Student Council – Vice President
+
+### Programs and Competitions
+
+- TSA Leadership Conference 2016, 2017, 2018, 2019 - Learned leadership best practices. 
+- NJASC Leadership Conference 2019 - Learned how to best lead my student council.
+- National TSA Conference 2018 - Attended LEAP Leadership program and recieved Gold Award for my accomplishments in my Community, Academics, and TSA.
+- National TSA Conference 2019 - Competed in the National Webmaster Competition, and placed [fill in after competition]
+
+### Community Service
+
