@@ -1,4 +1,4 @@
-<center> # A Little About Me
+# A Little About Me
 
  ![me](DSC_0681-300x200.jpg)
 
@@ -7,7 +7,7 @@
 - Technology Hobbyist
 - Political Activist
 
-</center>
+
 
 # Portfolio
 
